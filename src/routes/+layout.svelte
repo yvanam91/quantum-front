@@ -41,3 +41,8 @@
 </header>
 
 {@render children() };
+
+
+<footer>
+    <p>This is a test</p>
+</footer>
